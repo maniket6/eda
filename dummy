@@ -1,0 +1,34 @@
+ <!-- header  -->
+      <header class="header">
+        <nav>
+          <div class="logo">
+            <a href="index.html"><img src="ebd-logo-removebg-preview.png" alt="" class="img1"></a>
+          </div>
+          <input type="checkbox" id="menu-toggle">
+          <label for="menu-toggle" class="menu-icon">&#9776;</label>
+          <ul class="menu">
+        <li><a href="#">Home</a></li>
+            <li><a href="#">Skills</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Connect</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <!-- header end  -->
+
+      
+      <div class="container">
+        <div class="row">
+          <div class="alt-main-head__nav-inner">
+            <div class="bem-navbar-main-top">
+              
+            </div>
+          </div>
+          <div class="main-title main-title_default-position">OUT<br>STANDING DESIGN
+            <div class="main-title__call">WELCOME TO SHLOK</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousell">
